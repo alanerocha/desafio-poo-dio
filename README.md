@@ -18,49 +18,25 @@
 
 ## 📂 Estrutura do Projeto
 
-## Descrição da Estrutura
-
-### 📦 desafio-poo-dio
-
+📦 desafio-poo-dio
 Este é o diretório principal do projeto.
 
-### src
-
-Pasta que contém todo o código-fonte do projeto.
-
-### br
-
-Pacote base do projeto.
-
-### com
-
-Subpacote do pacote base.
-
-### dio
-
-Subpacote do pacote com.
-
-### desafio
-
-Subpacote do pacote dio.
-
-### domínio
-
-Subpacote que contém as principais classes do domínio do projeto.
-
-- 📜 Bootcamp.java: Representa um bootcamp.
-- 📜 Curso.java: Representa um curso.
-- 📜 Dev.java: Representa um desenvolvedor.
-- 📜 Mentoria.java: Representa uma mentoria.
-- 📜 Certificado.java: Representa um certificado.
-- 📜 SalaDeChat.java: Representa uma sala de chat.
-- 📜 Conteúdo.java: Representa um conteúdo.
-
-### Arquivos Adicionais
-
-- .gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
-- README.md: Documentação principal do projeto.
-
+src/
+└── domínio/
+    ├── bootcamp/
+    │   └── Bootcamp.java: Representa um bootcamp.
+    ├── curso/
+    │   └── Curso.java: Representa um curso.
+    ├── desenvolvedor/
+    │   └── Dev.java: Representa um desenvolvedor.
+    ├── mentoria/
+    │   └── Mentoria.java: Representa uma mentoria.
+    ├── certificado/
+    │   └── Certificado.java: Representa um certificado.
+    ├── sala_de_chat/
+    │   └── SalaDeChat.java: Representa uma sala de chat.
+    └── conteúdo/
+        └── Conteúdo.java: Representa um conteúdo.
 
 ## 🌟 Funcionalidades Adicionais
 

@@ -45,12 +45,13 @@
 
             📜 **Conteúdo.java**: Classe Conteúdo
 
-  📜 **Main.java**: Classe principal do projeto
+📜 Main.java: Classe principal do projeto
 
-  📄 **.gitignore**: Arquivo de configuração do Git
+📄 .gitignore: Arquivo de configuração do Git
 
-  📄 **README.md**: Este arquivo de documentação
-  
+📄 README.md: Este arquivo de documentação
+
+
 
 ## 🌟 Funcionalidades Adicionais
 

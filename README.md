@@ -17,41 +17,8 @@
 🎯 Instanciação de Objetos: Representar as classes criadas e relacionadas por meio de objetos.
 
 ## 📂 Estrutura do Projeto
-📁 **desafio-poo-dio/**: Pasta principal do projeto
 
-📁 **src/**: Pasta de código-fonte
-
-  📁 **br/**: Pacote base
-
-    📁 **com/**: Subpacote
-
-      📁 **dio/**: Subpacote
-
-        📁 **desafio/**: Subpacote
-
-          📁 **domínio/**: Subpacote
-
-            📜 **Bootcamp.java**: Classe Bootcamp
-
-            📜 **Curso.java**: Classe Curso
-
-            📜 **Dev.java**: Classe Dev
-
-            📜 **Mentoria.java**: Classe Mentoria
-
-            📜 **Certificado.java**: Classe Certificado
-
-            📜 **SalaDeChat.java**: Classe SalaDeChat
-
-            📜 **Conteúdo.java**: Classe Conteúdo
-
-📜 Main.java: Classe principal do projeto
-
-📄 .gitignore: Arquivo de configuração do Git
-
-📄 README.md: Este arquivo de documentação
-
-
+![Estrutura do Projeto](assets/Estrutura do Projeto.png)
 
 ## 🌟 Funcionalidades Adicionais
 

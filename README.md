@@ -19,14 +19,10 @@
 ## 📂 Estrutura do Projeto
 
 📦 desafio-poo-dio
-Este é o diretório principal do projeto.
-
-## src
-Pasta que contém todo o código-fonte do projeto.
-
-## br.com.dio.desafio
-
-## domínio
+> Diretório principal do projeto.
+* src - Pasta que contém todo o código-fonte do projeto.
+* br.com.dio.desafio
+  * domínio
 * Bootcamp.java: Representa um bootcamp.
 * Curso.java: Representa um curso.
 * Dev.java: Representa um desenvolvedor.

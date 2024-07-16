@@ -18,7 +18,7 @@
 
 ## 📂 Estrutura do Projeto
 
-![Estrutura do Projeto](assets/Estrutura do Projeto.png)
+![Estrutura do Projeto](C:/Users/alane/Desktop/desafio-poo-dio/assets/Estrutura do Projeto.png)
 
 ## 🌟 Funcionalidades Adicionais
 

@@ -52,7 +52,6 @@
 📄 README.md: Este arquivo de documentação
 
 
-
 ## 🌟 Funcionalidades Adicionais
 
 * Estou contribuindo para um projeto existente que já possuía as classes anteriores, adicionando as seguintes funcionalidades:

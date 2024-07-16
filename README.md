@@ -18,13 +18,6 @@
 
 ## 📂 Estrutura do Projeto
 
-
-Para organizar a estrutura de forma que fique formatada corretamente no GitHub, você pode seguir o formato Markdown adequado para criar listas e hierarquias. Aqui está como você pode estruturar e organizar a descrição da sua estrutura de projeto:
-
-
-# Estrutura do Projeto
-
-
 ## Descrição da Estrutura
 
 ### 📦 desafio-poo-dio
@@ -67,8 +60,6 @@ Subpacote que contém as principais classes do domínio do projeto.
 
 - .gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
 - README.md: Documentação principal do projeto.
-
-Esta estrutura organizada facilita a compreensão e a navegação pelo projeto, sendo uma boa prática para projetos em Java no GitHub. Certifique-se de substituir o conteúdo anterior do seu README.md por este novo formato para refletir a estrutura correta do seu projeto.
 
 
 ## 🌟 Funcionalidades Adicionais

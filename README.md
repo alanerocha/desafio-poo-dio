@@ -23,7 +23,7 @@
 * src - Pasta que contém todo o código-fonte do projeto.
 * br.com.dio.desafio
   * domínio ⤵️
-* Bootcamp.java: Representa um bootcamp.
+ ⌊ Bootcamp.java: Representa um bootcamp.
 * Curso.java: Representa um curso.
 * Dev.java: Representa um desenvolvedor.
 * Mentoria.java: Representa uma mentoria.

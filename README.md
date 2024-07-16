@@ -18,13 +18,23 @@
 
 ## 📂 Estrutura do Projeto
 
-📦 br.com.dio.desafio.dominio
- ┣ 📜 Bootcamp.java
- ┣ 📜 Curso.java
- ┣ 📜 Devs.java
- ┣ 📜 Mentoria.java
- ┣ 📜 Certificado.java
- ┗ 📜 SalaDeChat.java
+📦 desafio-poo-dio       # Pasta principal do projeto
+├── src                  # Pasta de código-fonte
+│   └── br               # Pacote base
+│       └── com          # Subpacote
+│           └── dio      # Subpacote
+│               └── desafio  # Subpacote
+│                   └── domínio  # Subpacote
+│                       ├── Bootcamp.java    # Classe Bootcamp
+│                       ├── Curso.java       # Classe Curso
+│                       ├── Dev.java         # Classe Dev
+│                       ├── Mentoria.java    # Classe Mentoria
+│                       ├── Certificado.java # Classe Certificado
+│                       ├── SalaDeChat.java  # Classe SalaDeChat
+│                       └── Conteúdo.java    # Classe Conteúdo
+├── .gitignore           # Arquivo de configuração do Git
+└── README.md            # Documentação do projeto
+
 
 ## 🌟 Funcionalidades Adicionais
 

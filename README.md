@@ -24,22 +24,52 @@ Para organizar a estrutura de forma que fique formatada corretamente no GitHub, 
 
 # Estrutura do Projeto
 
-📦 desafio-poo-dio
-├── src
-│ └── br
-│ └── com
-│ └── dio
-│ └── desafio
-│ └── domínio
-│ ├── Bootcamp.java
-│ ├── Curso.java
-│ ├── Dev.java
-│ ├── Mentoria.java
-│ ├── Certificado.java
-│ ├── SalaDeChat.java
-│ └── Conteúdo.java
-├── .gitignore
-└── README.md
+
+## Descrição da Estrutura
+
+### 📦 desafio-poo-dio
+
+Este é o diretório principal do projeto.
+
+### src
+
+Pasta que contém todo o código-fonte do projeto.
+
+### br
+
+Pacote base do projeto.
+
+### com
+
+Subpacote do pacote base.
+
+### dio
+
+Subpacote do pacote com.
+
+### desafio
+
+Subpacote do pacote dio.
+
+### domínio
+
+Subpacote que contém as principais classes do domínio do projeto.
+
+- 📜 Bootcamp.java: Representa um bootcamp.
+- 📜 Curso.java: Representa um curso.
+- 📜 Dev.java: Representa um desenvolvedor.
+- 📜 Mentoria.java: Representa uma mentoria.
+- 📜 Certificado.java: Representa um certificado.
+- 📜 SalaDeChat.java: Representa uma sala de chat.
+- 📜 Conteúdo.java: Representa um conteúdo.
+
+### Arquivos Adicionais
+
+- .gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
+- README.md: Documentação principal do projeto.
+
+Esta estrutura organizada facilita a compreensão e a navegação pelo projeto, sendo uma boa prática para projetos em Java no GitHub. Certifique-se de substituir o conteúdo anterior do seu README.md por este novo formato para refletir a estrutura correta do seu projeto.
+
 
 ## 🌟 Funcionalidades Adicionais
 

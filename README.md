@@ -18,23 +18,28 @@
 
 ## 📂 Estrutura do Projeto
 
-📦 desafio-poo-dio       # Pasta principal do projeto
-├── src                  # Pasta de código-fonte
-│   └── br               # Pacote base
-│       └── com          # Subpacote
-│           └── dio      # Subpacote
-│               └── desafio  # Subpacote
-│                   └── domínio  # Subpacote
-│                       ├── Bootcamp.java    # Classe Bootcamp
-│                       ├── Curso.java       # Classe Curso
-│                       ├── Dev.java         # Classe Dev
-│                       ├── Mentoria.java    # Classe Mentoria
-│                       ├── Certificado.java # Classe Certificado
-│                       ├── SalaDeChat.java  # Classe SalaDeChat
-│                       └── Conteúdo.java    # Classe Conteúdo
-├── .gitignore           # Arquivo de configuração do Git
-└── README.md            # Documentação do projeto
 
+Para organizar a estrutura de forma que fique formatada corretamente no GitHub, você pode seguir o formato Markdown adequado para criar listas e hierarquias. Aqui está como você pode estruturar e organizar a descrição da sua estrutura de projeto:
+
+
+# Estrutura do Projeto
+
+📦 desafio-poo-dio
+├── src
+│ └── br
+│ └── com
+│ └── dio
+│ └── desafio
+│ └── domínio
+│ ├── Bootcamp.java
+│ ├── Curso.java
+│ ├── Dev.java
+│ ├── Mentoria.java
+│ ├── Certificado.java
+│ ├── SalaDeChat.java
+│ └── Conteúdo.java
+├── .gitignore
+└── README.md
 
 ## 🌟 Funcionalidades Adicionais
 

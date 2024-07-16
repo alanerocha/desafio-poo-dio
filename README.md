@@ -18,13 +18,13 @@
 
 ## 📂 Estrutura do Projeto
 
-📦 br.com.dio.desafio.dominio
- ┣ 📜 Bootcamp.java
- ┣ 📜 Curso.java
- ┣ 📜 Devs.java
- ┣ 📜 Mentoria.java
- ┣ 📜 Certificado.java
- ┗ 📜 SalaDeChat.java
+📦 br.com.dio.desafio.dominio: Pasta principal que contém todos os arquivos listados abaixo.
+┣ 📜 Bootcamp.java: Arquivo Java representando a classe Bootcamp.
+┣ 📜 Curso.java: Arquivo Java representando a classe Curso.
+┣ 📜 Devs.java: Arquivo Java representando a classe Devs.
+┣ 📜 Mentoria.java: Arquivo Java representando a classe Mentoria.
+┣ 📜 Certificado.java: Arquivo Java representando a classe Certificado.
+┗ 📜 SalaDeChat.java: Arquivo Java representando a classe SalaDeChat.
 
 ## 🌟 Funcionalidades Adicionais
 

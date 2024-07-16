@@ -21,12 +21,12 @@
 📦 desafio-poo-dio
 Este é o diretório principal do projeto.
 
-# src
+## src
 Pasta que contém todo o código-fonte do projeto.
 
-# br.com.dio.desafio
+## br.com.dio.desafio
 
-# domínio
+## domínio
 📜 Bootcamp.java: Representa um bootcamp.
 📜 Curso.java: Representa um curso.
 📜 Dev.java: Representa um desenvolvedor.
@@ -35,7 +35,7 @@ Pasta que contém todo o código-fonte do projeto.
 📜 SalaDeChat.java: Representa uma sala de chat.
 📜 Conteúdo.java: Representa um conteúdo.
 
-# Arquivos Adicionais
+## Arquivos Adicionais
 * gitignore: Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git.
 * README.md: Documentação principal do projeto.
 
